@@ -1,2 +1,4 @@
-/* нормалайз */
+/* нормалайз, гланые стили, шрифты*/
 @import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/fonts.css);
